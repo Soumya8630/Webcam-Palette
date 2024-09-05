@@ -1,4 +1,4 @@
-# Webcam_Palette_HackathonProject
+# Welcome to Webcam Palette, your ultimate tool for transforming your webcam into a dynamic palette for painting, drawing, and exploring your creativity in real-time!
 
 Welcome to Webcam Palette, your ultimate tool for transforming your webcam into a dynamic palette for painting, drawing, and exploring your creativity in real-time!
 
